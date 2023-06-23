@@ -10,5 +10,5 @@
 
 <!--    -->
     <context:component-scan base-package = "hello.spring.annotation" />
-
+<!-- component-scan을 통해서 annotation이 관리하는 객체를 가지고와서 넣어줘~ -->
 </beans>
