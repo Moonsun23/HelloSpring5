@@ -3,7 +3,7 @@ package hello.spring.basic;
 import hello.spring.bean.*;
 
 public class Spring5App04 {
-    // 다섯번째 사례
+    // 세번째 사례
     // 문자열을 통해 생성해야 할 객체를 취사선택하게 됨
     // 개발자가 신경써야 할 부분이 늘어났다는 단점 발생
     // 즉, 비지니스 코드 작성하는 것도 버거운데
