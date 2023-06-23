@@ -11,7 +11,7 @@ public class Spring5Bean02 {
 
     }
     public void sayHelloJpn(String msg){
-        System.out.println("곤니치와, " + msg);
+        System.out.println("こんにちは, " + msg);
 
     }
 
